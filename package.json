@@ -1,0 +1,29 @@
+{
+  "name": "lesson-week_10-day_01-express",
+  "version": "1.0.0",
+  "description": "## Objectives",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js",
+    "s": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ab4ullah/lesson-week_10-day_01-express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ab4ullah/lesson-week_10-day_01-express/issues"
+  },
+  "homepage": "https://github.com/ab4ullah/lesson-week_10-day_01-express#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "nodemo": "^1.0.0"
+  }
+}
